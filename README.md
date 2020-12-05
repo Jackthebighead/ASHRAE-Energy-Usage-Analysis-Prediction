@@ -10,7 +10,7 @@ This is the term project of MSBD5003 Big Data Computing course, a spark based en
 
 In this project, a energy consumption system based on ASHRAE energy dataset is implemented using Spark technology. The project architecture diagram is shown below:
 
-![image-20201205171331511](/Users/yanzheyuan/Library/Application Support/typora-user-images/image-20201205171331511.png)
+![Aaron Swartz](https://github.com/Jackthebighead/ASHRAE-Energy-Usage-Analysis-Prediction/blob/master/assets/image-20201205171331511.png)
 
 To be specific, this project contains two parts: 
 
