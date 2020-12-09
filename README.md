@@ -76,7 +76,8 @@ To be specific, this project contains two parts:
   - A Flask based web dashboard is developing
   - Deployment through Azure App Service
 
-
+### Liscense
+Please refer to: [liscense_Jackthebighead](https://github.com/Jackthebighead/ASHRAE-Energy-Usage-Analysis-Prediction/blob/master/LICENSE)
 
 
 
