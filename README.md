@@ -12,7 +12,7 @@ In this project, a energy consumption system based on ASHRAE energy dataset is i
 
 ![Aaron Swartz](https://github.com/Jackthebighead/ASHRAE-Energy-Usage-Analysis-Prediction/blob/master/assets/architecture.png)
 
-To be specific, this project contains two parts: 
+To be specific, this project contains two parts (Mainly run on **Azure Databricks**): 
 
 - **Exploratory Data Analysis**: Data mining and visualization on the dataset. Both spark and pandas way are performed.
   - Spark DataFrame
