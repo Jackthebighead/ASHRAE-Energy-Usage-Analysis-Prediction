@@ -69,11 +69,11 @@ To be specific, this project contains two parts (Mainly run on **Azure Databrick
     - Run all predictions file to perform predictions.lol
     - Run`submittor.ipynb`
   - Model_comparison contains several methods apart from spark.mllib. They can be run locally.
+  - Systemization: Flask based dashboard (you can design your own if you like
 
 ### Future Work
 
 - Systemerization
-  - A Flask based web dashboard is developing
   - Deployment through Azure App Service
 
 ### Liscense
